@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Facebook Connect package to connect facebook users to existing users."
+  summary: "Twitter Connect package to connect twitter users to existing users."
 });
 
 Package.on_use(function (api) {
